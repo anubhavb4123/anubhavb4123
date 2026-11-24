@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anubhav Bajpai
 
-### Full Stack Developer & IoT Engineer
+### Full Stack Developer , IoT Engineer & AI
 
 I'm a B.Tech Information Technology student who enjoys building real-world
 products across **web development, cloud platforms, IoT, embedded systems,
